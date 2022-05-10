@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnastasiaMamykina
-- 👀 I’m interested in raising my little daughter and cource QA
+- 👀 I’m interested in cource QA
 - 🌱 I’m currently learning QA and English
 - 
 - 📫 How to reach me @werewoolfe - my telegram
